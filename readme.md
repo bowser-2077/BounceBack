@@ -13,7 +13,7 @@ BounceBack is a datapack that let you tp at 200 high when you take a damage
 To Do
 ## Installation
 
-Dillinger requires Minecraft 1.21+ to run.
+BounceBack requires Minecraft 1.21+ to run.
 
  - Download the last version from the releases page (BounceBack.zip).
  - Add the datapack to the datapack folder of your world.
